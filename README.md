@@ -5,55 +5,11 @@ and get feedback as you can share it with others.
 
 ## Instructions
 
-**Read these instructions carefully. Understand exactly what is expected _before_ starting this Sprint Challenge.**
-
-This is an individual assessment. All work must be your own. Your challenge score is a measure of your ability to work independently using the material covered through this sprint. You need to demonstrate proficiency in the concepts and objectives introduced and practiced in preceding days.
-
-You are not allowed to collaborate during the Sprint Challenge. However, you are encouraged to follow the twenty-minute rule and seek support from your PM and Instructor in your cohort help channel on Slack. Your work reflects your proficiency in Python and Django and your command of the concepts and techniques covered during the Intro to Django Sprint.
-
-You have three hours to complete this challenge. Plan your time accordingly.
-
-## Commits
-
-Commit your code regularly and meaningfully. This helps both you (in case you ever need to return to old code for any number of reasons and your project manager.
-
-## Description
-
-In this challenge, you will be documenting your experience in creating a Django project and using [Heroku](https://dashboard.heroku.com/) to deploy the application you built over the course of this sprint. 
-
-In meeting the minimum viable product (MVP) specifications listed below, your application will be accessible remotely via Heroku's servers as demonstrated in the following screen-shot. 
-
-(placeholder img)
 
 ![Todo Deploy MVP](https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRdSBBVXq6sA4ZRRXvoojXBdfJe8LmBO4muCiMxJnO-P9UbVjNgjQ)
 
 You will also create a short written piece documenting your experience.
 ![Todo Writeup](/imgs/two_paragraphs.png)
-
-
-## Self-Study/Essay Questions
-
-This portion of the challenge is meant to allow you to practice your
-*professional* writing skills. In the tech world, that means writing things clearly,
-concisely, in a way to get the information across efficiently to an audience that may be pretty busy. 
-
-It is suggested that you limit your response to the questions below to one or two paragraphs. Keep your answers short and to the point. Consider how much of an online resource people typically view.
-
-![Stats](/imgs/reading_stats.png)
-
-from [How People Read Content Online](https://www.go-gulf.ae/blog/how-people-read-content-online/)
-
-Demonstrate your understanding of this week's concepts by answering the following free-form questions. With your final submission, complete the `DeploymentExperiences.md` file where you write about the experience of your Heroku deploy. 
-
-- Summarize the key steps in the deployment process. 
-  - What went well?
-  - What challenges did you face? 
-  - How far did you get?
-- We have utilized docs from several different projects over the course of this Sprint.
-  - Which docs did you think were the most helpful? 
-  - Name one or two specific things about this resource that you think sets it apart from other docs you have referenced in the past. 
-
-You are expected to be able to answer all these questions. Your responses contribute to your Sprint Challenge grade. Skipping this section *will* prevent you from passing this challenge.
 
 ## Project Set Up
 
